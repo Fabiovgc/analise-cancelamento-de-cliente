@@ -27,7 +27,8 @@ Insights sobre retenção e cancelamento de clientes
 ## 🚀 Como Executar
 Clone o repositório:
 
-git clone https://github.com/Fabiovgc/analise-cancelamento-de-cliente.git
+> git clone https://github.com/Fabiovgc/analise-cancelamento-de-cliente.git
+
 Instale as dependências:
 
 > pip install pandas
