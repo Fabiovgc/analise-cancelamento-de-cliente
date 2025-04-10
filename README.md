@@ -23,3 +23,15 @@ Insights sobre retenção e cancelamento de clientes
 > import pandas as pd
 
 > import plotly.express as px
+
+## 🚀 Como Executar
+Clone o repositório:
+
+git clone https://github.com/Fabiovgc/analise-cancelamento-de-cliente.git
+Instale as dependências:
+
+> pip install pandas
+
+> pip install plotly
+
+Navegue até a pasta do projeto desejado e execute o script Python correspondente.
